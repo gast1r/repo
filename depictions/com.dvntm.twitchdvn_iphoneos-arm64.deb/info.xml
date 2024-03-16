@@ -1,0 +1,30 @@
+<package>
+	<id>Twitch dwn</id>
+	<name>Twitch downloader</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+            <maxiOS>16.3</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+        <description>Donwload twitch streams</description>
+		<description>No options to comfigure</description>
+    </descriptionlist>
+	<screenshots>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>Pasxalla</change>
+		<change>It feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitch dwnload</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
